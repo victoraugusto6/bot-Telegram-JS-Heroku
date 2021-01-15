@@ -1,14 +1,18 @@
 # Criando um bot para Telegram usando JS + Heroku
 
-Este reposítório foi criado com a finalidade de demonstrar um bot para Telegram usando JS e hospedado na plataforma Heroku.
+Este reposítório foi criado com a finalidade de demonstrar um bot para Telegram usando JS e hospedado na plataforma
+Heroku.
 
-  - Bot para Telegram
-  - Carregar lista txt em comando
-  - Hospedado no Heroku
+- Bot para Telegram
+- Carregar lista txt em comando
+- Hospedado no Heroku
 
-### Procedimentos necessários
+### Imagens do projeto
 
-[]()
+<img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.ibb.co/8NdxPbK/bot-telegram.png" alt="" />
+<br>
+<img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.ibb.co/rHR6dRG/resposta.png" alt="" />
+<br>
 
 ### Procedimentos necessários
 
@@ -24,6 +28,7 @@ $ npm install tape --save--dev
 ```
 
 ### Crie seu Bot no BotFather
+
 * [Bot Father - Telegram](https://telegram.me/BotFather)
 
 <table style="height: 214px; width: 100%; border-collapse: collapse; margin-left: auto; margin-right: auto;" border="0">
