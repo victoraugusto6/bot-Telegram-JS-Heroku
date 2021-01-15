@@ -8,6 +8,10 @@ Este reposítório foi criado com a finalidade de demonstrar um bot para Telegra
 
 ### Procedimentos necessários
 
+[]()
+
+### Procedimentos necessários
+
 Utilize os pacotes npm a seguir para funcionar o projeto:
 
 ```sh
